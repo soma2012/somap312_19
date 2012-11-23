@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<gpx
+    version="1.0"
+    creator="ExpertGPS 1.1 - http://www.topografix.com"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://www.topografix.com/GPX/1/0"
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+    <time>2002-02-27T17:18:33Z</time>
+    <bounds minlat="37.497844" minlon="127.027531" maxlat="37.597844" maxlon="127.127531"/>
+    <wpt lat="37.497844" lon="127.027531">
+        <ele>44.586548</ele>
+        <time>2001-11-28T21:05:28Z</time>
+        <name>5066</name>
+        <desc><![CDATA[5066]]></desc>
+        <sym>Crossing</sym>
+        <type><![CDATA[Crossing]]></type>
+    </wpt>    
+</gpx>
